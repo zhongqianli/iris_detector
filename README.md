@@ -95,5 +95,6 @@ We just evaluate mobilenet_300x300_ssd_iter_3000.caffemodel.  On Intel i5 CPU, t
 
 ![Alt text](./results/12.png)
 
-
+## Questions
+Please contact timlee.zh@gmail.com
 
