@@ -2,7 +2,7 @@
 
 ![Alt text](./results/1.png)
 
-[TOC]
+@[toc]
 
 ## How to train iris detector
 
