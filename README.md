@@ -53,6 +53,7 @@ When set confidence threshold to 0.5 and set IoU threshold to 0.5, the accuracy 
 On Intel i5 CPU, the average inference time is **20ms**. On GTX1080Ti GPU, the average inference time is **13ms**. 
 
 **Intel i5 CPU**
+
 - evaluate by opencv3.4 Python API:
 ![Alt text](./results/4.png)
 
@@ -60,6 +61,7 @@ On Intel i5 CPU, the average inference time is **20ms**. On GTX1080Ti GPU, the a
 ![Alt text](./results/5.png)
 
 **GTX1080Ti GPU**
+
 ![Alt text](./results/6.png)
 
 ### ResNet10-SSD with half filter number
@@ -76,6 +78,7 @@ When set confidence threshold to 0.5 and set IoU threshold to 0.5, the accuracy 
 On Intel i5 CPU, the average inference time is **10ms**. On GTX1080Ti GPU, the average inference time is **7ms**. 
 
 **Intel i5 CPU**
+
 evaluate by opencv3.4 Python API:
 ![Alt text](./results/9.png)
 
@@ -83,6 +86,7 @@ evaluate by opencv3.4 C++ API:
 ![Alt text](./results/10.png)
 
 **GTX1080Ti GPU**
+
 ![Alt text](./results/11.png)
 
 ### MobileNet-SSD
