@@ -5,7 +5,7 @@
 
 ## How to train iris detector
 
-See how_to_train_iris_detector_with_caffe_ssd.md
+See [how_to_train_iris_detector_with_caffe_ssd.md](./how_to_train_iris_detector_with_caffe_ssd.md)
 
 ## Network design
 
