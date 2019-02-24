@@ -34,10 +34,8 @@ Our iris dataset has 12800 training samples and 3200 test samples. Training on G
 
 **Speed test**
 ResNet10+SSD(half) is faster than others.
-![Alt text](./results/speed_test.png)
 
-
-| Network      |   mAP     |  Speed on Intel i5 CPU(ms)   | Speed on GTX1080Ti(ms) | Input resolution |
+| Network      |   mAP@0.5     |  Speed on Intel i5 CPU(ms)   | Speed on GTX1080Ti(ms) | Input resolution |
 | :--------:   | :--------:| :------:                     |:--------:              | :--------:       |
 | ResNet10+SSD    |   1.0  |		20                        | 13                     |	640x480         | 
 | ResNet10+SSD(half) |   1.0  |		**10**                  |	**7**                  |	640x480         | 
